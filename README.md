@@ -1,0 +1,2 @@
+# Project-A
+Project A is a modern, AI-driven revision tool designed to help students study smarter, not harder. It combines intelligent flashcards, exam practice, and personalised feedback into one clean, powerful platform.
